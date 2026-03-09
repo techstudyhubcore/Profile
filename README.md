@@ -9,8 +9,8 @@
 ### B.Pharm · EdTech Founder · Pharmacovigilance Aspirant · GenAI Certified
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.techstudyhubcore.in-00c8b4?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio.techstudyhubcore.in)
-[![LinkedIn](https://www.linkedin.com/in/kartik-h6-00c8b4?style=flat-square&logo=google-chrome&logoColor=white)))](https://linkedin.com/in/kartik-h6)
-[![Email](https://img.shields.io/badge/Email-kartik.h6822gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kartik.h6822@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kartik%20H.-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-h6)
+[![Email](https://img.shields.io/badge/Email-kartik.h6822%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kartik.h6822@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Koppal%2C%20Karnataka%2C%20IN-FF6B35?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Koppal,Karnataka)
 
 </div>
@@ -45,8 +45,8 @@ This isn't a typical path — and that's the point. I'm building at the intersec
 | 🥇 PharmaNEST 3.E Winner | International conference, nanotechnology poster — Ooty, 2022 |
 | 🤖 GenAI Mastermind | Certified — Outskill, Dec 2025 |
 | 🏛️ LSSSDC / NCVET | Govt. recognized — AI in Pharma, NSQF Level 5, March 2026 |
-| 📚 Teaching Assistant | CR College of Pharmacy, Nov–Dec 2025 |
-| 🔬 Telepharmacy Research | Patient satisfaction & counseling effectiveness — RGUHS 2025 |
+| 📚 Teaching Assistant | Pharmacy college (volunteered), Nov–Dec 2025 |
+| 🔬 Telepharmacy Research | Patient satisfaction & counseling effectiveness : A comparative literature review— RGUHS 2025 |
 | 🌐 EdTech Founder | Techstudyhubcore — launched Jan 2026 |
 
 ---
@@ -134,7 +134,7 @@ Web:
 | Platform | Link |
 |---|---|
 | 🌐 Portfolio | [portfolio.techstudyhubcore.in](https://portfolio.techstudyhubcore.in) |
-| 📧 Email | [kartikh6822@gmail.com](mailto:kartikh6822@gmail.com) |
+| 📧 Email | [kartik.h6822@gmail.com](mailto:kartik.h6822@gmail.com) |
 | 📞 Phone | [+91 9141542270](tel:+919141542270) |
 | 🏢 EdTech Platform | [techstudyhubcore.in](https://techstudyhubcore.in) |
 
