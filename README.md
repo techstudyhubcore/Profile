@@ -9,8 +9,8 @@
 ### B.Pharm · EdTech Founder · Pharmacovigilance Aspirant · GenAI Certified
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.techstudyhubcore.in-00c8b4?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio.techstudyhubcore.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kartik%20H.-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikh)
-[![Email](https://img.shields.io/badge/Email-kartikh6%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kartikh6@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/kartik-h6-00c8b4?style=flat-square&logo=google-chrome&logoColor=white)))](https://linkedin.com/in/kartik-h6)
+[![Email](https://img.shields.io/badge/Email-kartik.h6822gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kartik.h6822@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Koppal%2C%20Karnataka%2C%20IN-FF6B35?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Koppal,Karnataka)
 
 </div>
