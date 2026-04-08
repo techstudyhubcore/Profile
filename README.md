@@ -135,7 +135,7 @@ Web & No-Code Deployment
 
 *"Access to knowledge in your own language is not a privilege — it is a right."*
 
-**B.Pharm · Health-Tech AI · EdTech · Vernacular Content · Koppal, Karnataka**
+**B.Pharm · Health-Tech AI · EdTech · Vernacular Content · Koppal,Karnataka**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=techstudyhubcore&color=00c8b4&style=flat-square&label=Profile+Views)](https://github.com/techstudyhubcore)
 
